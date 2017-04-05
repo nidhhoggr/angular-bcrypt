@@ -1198,4 +1198,4 @@
 
   });
 
-})(window, angular.module('dtrw.bcrypt'));
+})(window, angular.module('dtrw.bcrypt', []));
